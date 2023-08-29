@@ -1,0 +1,2 @@
+- how to create requirement.txt?
+- - `pip freeze > requirements.txt`
